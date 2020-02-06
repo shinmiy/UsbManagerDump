@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsbManagerDump</string>
+    <string name="initial_text">Click the button to scan devices</string>
+    <string name="button_text">Scan for devices</string>
+</resources>
